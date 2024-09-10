@@ -1,10 +1,10 @@
-# Genomics-Course-2021
-Genomics course (MED-145) for 3rd year students, Program of Medical Informatics, Faculty of Computers and Information, Egypt.
+# Introduction to Artificial Intelligence Course 2023
+AI Course (C-AI311) for 3rd year students, Faculty of Computing and Information Sciences, EUI.
   <table>  
         <thead>
-           <th> Day </th>
-           <th> Lecture Objectives </th>
-           <th> Lecture Materials </th>
+           <th> Week </th>
+           <th> Week Objectives </th>
+           <th> Lab Materials </th>
         </thead>
         <tr>
             <td> 1 </td>
